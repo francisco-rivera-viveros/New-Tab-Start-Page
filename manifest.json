@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Mi Página de Inicio Personalizada",
+  "version": "1.0",
+  "description": "Reemplaza la página de inicio con una personalizada.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "p.html"
+  },
+  "permissions": []
+}
