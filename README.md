@@ -12,3 +12,6 @@ So this is how it looks like !! (Remember to install both! Theme & Extension!)
 
 
 You may be wondering why 2? Can't you put them both on the same extension so we just have to download one and boom you have the setup?, well let me tell you seems like Google doesn't allow to have a theme (that modifies tab's color and so on) and a extension that automaically changes your New Tab Page cause you know someone could put some random stuff on a theme extension so that will be bad to users SOO i get it Google it's actually a nice security feature soo the sacrifice that we have to make it's have them separated into 2 different extensions! 
+
+This is it published on Chrome Web Store hopefully another soul on internet like it as well and I can make her/his day better!
+<img width="2851" height="1659" alt="image" src="https://github.com/user-attachments/assets/0e68443a-eafa-47ec-be20-f006ef07faae" />
